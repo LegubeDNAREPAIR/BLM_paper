@@ -27,6 +27,8 @@ the scripts were written with `R`, and need some packages :
 * `library(tidyverse)`.
 * `library(Homo.sapiens)`.
 
+Some data (profile) were generated using `deeptools`, as you can see [here](script/snakefile)
+
 | Scripts           | Description                                                                                       | Figures               |
 |-------------------|---------------------------------------------------------------------------------------------------|-----------------------|
 | src/Functions.R   | Usefull functions for some R scripts                                                              |                       |
