@@ -1,0 +1,104 @@
+FILES = ["/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HVW7VBGXX_SETX_OHT_DIVA_16s000425-1-1_Clouaire_lane116s000425_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HVW7VBGXX_SETX_DIVA_16s000424-1-1_Clouaire_lane116s000424_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/Pol2/EMBL_Ser2P_Pol2/PROCESSED/BY_US/WIGGLE/H3LNWBGX3_Ser2P_Pol2_DIVA_17s001630-1-1_Clouaire_lane117s001630_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/Pol2/EMBL_Ser5P-Pol2/PROCESSED/BY_US/WIGGLE/H37HYBGX3_Ser5P_Pol2_DIVA_17s001626-1-1_Clouaire_lane117s001626_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/Pol2/EMBL_Ser7P-Pol2/PROCESSED/BY_US/WIGGLE/H37HYBGX3_Ser7P_Pol2_DIVA_17s001628-1-1_Clouaire_lane117s001628_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/Pol2/EMBL_Tot-Pol2/PROCESSED/BY_US/WIGGLE/H3LNWBGX3_Tot_Pol2_DIVA_17s001632-1-1_Clouaire_lane117s001632_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/RNA-Seq/EMBL_201707/PROCESSED/WIGGLE/HYL5LBGX2/HYL5LBGX2_RNA_C1_1_17s002464-1-1_Clouaire_lane117s002464_hg19plusERCC_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/RNA-Seq/EMBL_201707/PROCESSED/WIGGLE/HYMHNBGX2/HYMHNBGX2_RNA_C1_2_17s002468-1-1_Clouaire_lane117s002468_hg19plusERCC_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/RNA-Seq/EMBL_201707/PROCESSED/WIGGLE/HYL5LBGX2/HYL5LBGX2_RNA_STX_1_17s002466-1-1_Clouaire_lane117s002466_hg19plusERCC_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/Pol2/POLII-S2P/PROCESSED/ALIGNED/WIGGLE/polII_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HVW7VBGXX_Pol2S2P_DIVA_16s000427-1-1_Clouaire_lane116s000427_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/DRIP-SEQ/HYG77BGX2_DRIPseq_SETX/PROCESSED/WIGGLE/hg19/HYG77BGX2_DRIP2_C1_DIVA_17s002460-1-1_Clouaire_lane117s002460_normalized_hg19_nodups.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/DRIP-SEQ/HYG77BGX2_DRIPseq_SETX/PROCESSED/WIGGLE/hg19/HYG77BGX2_DRIP2_C1_OHT_17s002461-1-1_Clouaire_lane117s002461_normalized_hg19_nodups.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN2_201404/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K4me2_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN2_201404/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K4me2_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4K20me1Mono_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4K20me1Mono_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k36me3_mOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k36me3_pOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k79me2_mOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k79me2_pOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h2bub_mOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h2bub_pOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H2BK120ac_DIVA_16s000420-1-1_Clouaire_lane116s000420_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H2BK120ac_OHT_DI_16s000421-1-1_Clouaire_lane116s000421_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H4K12ac_DIVA_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H4K12ac_OHT_DIVA_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k56ac_mOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k56ac_pOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN2_201404/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4K16ac_normalized_hg19.bw",    
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN2_201404/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4K16ac_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H2AZ_DIVA_16s000418-1-1_Clouaire_lane116s000418_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H2AZ_OHT_DIVA_16s000419-1-1_Clouaire_lane116s000419_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H2AZac_DIVA_normalized.bw", 
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H2AZac_OHT_DIVA_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HN25TBGXX_H1_DIVA_16s000414-1-1_Clouaire_lane116s000414_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HN25TBGXX_H1_OHT_DIVA_16s000415-1-1_Clouaire_lane116s000415_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_MacroH2A_DIVA_16s000416-1-1_Clouaire_lane116s000416_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_MacroH2A_OHT_DIV_16s000417-1-1_Clouaire_lane116s000417_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K9me2_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K9me2_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/Clouaire_H2VFWBGX5_HWNTLBGX3/PROCESSED/mapping/BIGWIG/HWNTLBGX3_H3K9me3_DIVA_17s005723-1-1_Clouaire_lane117s005723_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/Clouaire_H2VFWBGX5_HWNTLBGX3/PROCESSED/mapping/BIGWIG/HWNTLBGX3_H3K9me3_OHT_DIVA_17s005724-1-1_Clouaire_lane117s005724_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K9me2_normalized_hg19.bw",    
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H3K9me2_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4S1P_normalized_hg19.bw",    
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN3_201412/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/H4S1P_OHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/Clouaire_HFJNHBGX5/PROCESSED/mapping/BIGWIG/HFJNHBGX5_H4K20me2_DIVA_17s005866-1-1_Clouaire_lane117s005866_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/Clouaire_HFJNHBGX5/PROCESSED/mapping/BIGWIG/HFJNHBGX5_H4K20me2_OHT_17s005867-1-1_Clouaire_lane117s005867_sequence_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H4K20me3_DIVA_16s000422-1-1_Clouaire_lane116s000422_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/HMNY7BGXX_H4K20me3_OHT_DI_16s000423-1-1_Clouaire_lane116s000423_sequence.nodups.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k36me2_mOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/BGI/RUN1_201203/PROCESSED/ALIGNED/WIGGLE/BIGWIG/normalized/h3k36me2_pOHT_normalized_hg19.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/GATC/PROCESSED/WIGGLE/BIGWIG/GATC_Merged_0316_FK2_minus.merged.sorted.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/GATC/PROCESSED/WIGGLE/BIGWIG/GATC_Merged_0316_FK2_OHT.merged.sorted.bam_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H3_DIVA_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/HISTONES/EMBL/PROCESSED/BY_US/WIGGLE/H3_OHT_DIVA_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/BLESS/CHIP-SEQ/Jun2015/PROCESSED/ALIGNED_PAIRED/WIGGLE/trimmed_BLESS_U2OSpTam.sorted_fragments_800bp_rmdups_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/BLESS/CHIP-SEQ/Jun2015/PROCESSED/ALIGNED_PAIRED/WIGGLE/trimmed_BLESS_U2OS-Tam.sorted_fragments_800bp_rmdups_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/RAD51/U2OS/EMBL2/PROCESSED/WIGGLE/hg19/RAD51_hg19_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/XRCC4/U2OS/EMBL2/PROCESSED/WIGGLE/hg19/XRCC4_hg19_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/G4/G4_GSE99205/PROCESSED/mapping/BIGWIG/SRR5586987_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/G4/G4_GSE99205/PROCESSED/mapping/BIGWIG/SRR5586988_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/G4/G4_GSE99205/PROCESSED/mapping/BIGWIG/SRR5586989_normalized.bw",
+"/bioinfo/bioinfo_legube/NAS/DATA/ChIP-Seq/BLM/PROCESSED/ALIGNED/WIGGLE/BLM_normalized_01_02_2018.bw",
+"/bioinfo/bioinfo_legube/NAS/DOSSIERS_PERSO/VINCENT/U2OS_G4_ChIP_data/U2OS_G4_ChIP_data/U2OS_G4_ChIP_input.bigwig",
+"/bioinfo/bioinfo_legube/NAS/DOSSIERS_PERSO/VINCENT/U2OS_G4_ChIP_data/U2OS_G4_ChIP_data/U2OS_G4_ChIP_Rep2.bigwig",
+"/bioinfo/bioinfo_legube/NAS/DOSSIERS_PERSO/VINCENT/U2OS_G4_ChIP_data/U2OS_G4_ChIP_data/U2OS_G4_ChIP_Rep3.bigwig",
+"/bioinfo/bioinfo_legube/NAS/DOSSIERS_PERSO/VINCENT/U2OS_G4_ChIP_data/U2OS_G4_ChIP_data/U2OS_G4_ChIP_Rep1.bigwig"]
+
+
+
+NAMES = {zz.split("/")[-1].split(".")[0]:zz for zz in FILES}
+
+BEDFILE = "ASIsites_hg19.bed"
+EXPAND = [50000,5000]
+BINS = {"50000":100,"5000":10}
+
+
+def getSampleFile(wildcards):
+	return(NAMES[wildcards.sample])
+def getBinSize(wildcards):
+	return(BINS[wildcards.expand])
+
+
+rule all:
+	input:
+		expand("MATRIX/{sample}_{expand}.gz",sample=NAMES.keys(),expand=EXPAND)
+
+
+
+rule ComputeMatrix:
+	input:
+		bed=BEDFILE,
+		bw=getSampleFile
+	output:
+		"MATRIX/{sample}_{expand}.gz"
+	params:
+			expand="{expand}",
+			bins=getBinSize
+	threads:8
+	shell:
+			"computeMatrix reference-point --referencePoint center -S {input.bw} -R {input.bed} -a {params.expand} -b {params.expand} -bs {params.bins} --averageTypeBins sum -p {threads} -o {output}"
+
