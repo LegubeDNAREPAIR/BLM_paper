@@ -27,7 +27,7 @@ the scripts were written with `R`, and need some packages :
 * `library(tidyverse)`.
 * `library(Homo.sapiens)`.
 
-Some data (profile) were generated using `deeptools`, as you can see [here](script/snakefile)
+Some data (profile) were generated using `deeptools`, as you can see [here](https://github.com/LegubeDNAREPAIR/BLM_paper/blob/main/script/Snakefile)
 
 | Scripts           | Description                                                                                       | Figures               |
 |-------------------|---------------------------------------------------------------------------------------------------|-----------------------|
